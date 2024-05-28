@@ -1,0 +1,10 @@
+Commands to handle the data base:
+- enter in the DB:
+sqlite3 wifi_data.db
+
+- read the whole table:
+SELECT * FROM wifi_logs;
+
+- clean the table
+DELETE FROM wifi_logs;
+
