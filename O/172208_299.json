@@ -1,0 +1,13 @@
+{
+  "File Name": "172208_299.jpg",
+  "Create Date": "2024-05-28 17:22:16.388+02:00",
+  "Create Seconds Epoch": 1716909736.392,
+  "Trigger": "Motion",
+  "Subject Distance": "0.5399568035 m",
+  "Exposure Time": "1/17",
+  "ISO": "265",
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a person taking a selfie in a mirror with a smartphone. The person is wearing glasses and has short hair, facing away from the camera. Their reflection shows them looking into the phone's camera lens. Behind the person is a blank blackboard or board with no writing on it, indicating that it might be used for writing or drawing. The background also includes what appears to be part of a ceiling structure, suggesting this could be an indoor setting such as a classroom or office. "
+  }
+}

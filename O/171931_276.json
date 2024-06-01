@@ -1,0 +1,13 @@
+{
+  "File Name": "171931_276.jpg",
+  "Create Date": "2024-05-28 17:19:38.343+02:00",
+  "Create Seconds Epoch": 1716909578.351,
+  "Trigger": "Motion",
+  "Subject Distance": "0.6269592476 m",
+  "Exposure Time": "1/17",
+  "ISO": "220",
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be rotated, as it shows what seems to be the bottom of a surface. It looks like the edge of a television or monitor, but due to the rotation, it's not possible to see any content or text displayed on the screen, which would normally be at the top when viewing in its standard orientation. Additionally, there appears to be a black object with a white border that could be a piece of furniture or equipment, but without context or additional details from the image, it's challenging to provide a precise description. If you have more information about what is being depicted or if you need the image rotated for a different purpose, please let me know! "
+  }
+}

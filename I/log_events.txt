@@ -1,0 +1,359 @@
+2024-05-28 17:17:25, 1716909445, System initialized.
+2024-05-28 17:18:11, 1716909491, Motion detected.
+2024-05-28 17:18:11, 1716909491, Last photo saved.
+2024-05-28 17:18:12, 1716909492, Photo metadata created.
+2024-05-28 17:18:40, 1716909520, Motion detected.
+2024-05-28 17:18:40, 1716909520, Last photo saved.
+2024-05-28 17:18:41, 1716909521, Photo metadata created.
+2024-05-28 17:19:08, 1716909549, Motion detected.
+2024-05-28 17:19:09, 1716909549, Last photo saved.
+2024-05-28 17:19:09, 1716909549, Photo metadata created.
+2024-05-28 17:19:23, 1716909563, Motion detected.
+2024-05-28 17:19:23, 1716909563, Last photo saved.
+2024-05-28 17:19:23, 1716909563, Photo metadata created.
+2024-05-28 17:19:37, 1716909577, Motion detected.
+2024-05-28 17:19:37, 1716909577, Last photo saved.
+2024-05-28 17:19:38, 1716909578, Photo metadata created.
+2024-05-28 17:19:38, 1716909578, Rain detected moving screen wiper.
+2024-05-28 17:19:38, 1716909578, Rain detected moving screen wiper.
+2024-05-28 17:19:39, 1716909579, Rain detected moving screen wiper.
+2024-05-28 17:19:39, 1716909579, Rain detected moving screen wiper.
+2024-05-28 17:19:39, 1716909579, Rain detected moving screen wiper.
+2024-05-28 17:19:42, 1716909582, Rain detected moving screen wiper.
+2024-05-28 17:19:42, 1716909582, Rain detected moving screen wiper.
+2024-05-28 17:19:43, 1716909583, Rain detected moving screen wiper.
+2024-05-28 17:19:43, 1716909583, Rain detected moving screen wiper.
+2024-05-28 17:19:43, 1716909583, Rain detected moving screen wiper.
+2024-05-28 17:19:44, 1716909584, Rain detected moving screen wiper.
+2024-05-28 17:19:49, 1716909589, Pressure plate activated camera triggered.
+2024-05-28 17:19:50, 1716909590, Photo taken.
+2024-05-28 17:19:51, 1716909591, Photo metadata created.
+2024-05-28 17:19:51, 1716909591, Pressure plate activated camera triggered.
+2024-05-28 17:19:53, 1716909593, Photo taken.
+2024-05-28 17:19:53, 1716909593, Motion detected.
+2024-05-28 17:19:53, 1716909593, Last photo saved.
+2024-05-28 17:19:53, 1716909593, Photo metadata created.
+2024-05-28 17:19:53, 1716909593, Pressure plate activated camera triggered.
+2024-05-28 17:19:53, 1716909593, Photo metadata created.
+2024-05-28 17:19:55, 1716909595, Photo taken.
+2024-05-28 17:19:55, 1716909595, Photo metadata created.
+2024-05-28 17:19:55, 1716909595, Pressure plate activated camera triggered.
+2024-05-28 17:19:57, 1716909597, Photo taken.
+2024-05-28 17:19:57, 1716909597, Photo metadata created.
+2024-05-28 17:19:57, 1716909597, Pressure plate activated camera triggered.
+2024-05-28 17:19:58, 1716909598, Photo taken.
+2024-05-28 17:19:59, 1716909599, Photo metadata created.
+2024-05-28 17:19:59, 1716909599, Pressure plate activated camera triggered.
+2024-05-28 17:20:00, 1716909600, Photo taken.
+2024-05-28 17:20:01, 1716909601, Photo metadata created.
+2024-05-28 17:20:01, 1716909601, Pressure plate activated camera triggered.
+2024-05-28 17:20:02, 1716909602, Photo taken.
+2024-05-28 17:20:03, 1716909603, Photo metadata created.
+2024-05-28 17:21:00, 1716909660, Motion detected.
+2024-05-28 17:21:00, 1716909660, Last photo saved.
+2024-05-28 17:21:00, 1716909660, Photo metadata created.
+2024-05-28 17:21:44, 1716909704, Motion detected.
+2024-05-28 17:21:44, 1716909704, Last photo saved.
+2024-05-28 17:21:45, 1716909705, Photo metadata created.
+2024-05-28 17:22:00, 1716909720, Motion detected.
+2024-05-28 17:22:00, 1716909720, Last photo saved.
+2024-05-28 17:22:00, 1716909720, Photo metadata created.
+2024-05-28 17:22:16, 1716909736, Motion detected.
+2024-05-28 17:22:16, 1716909736, Last photo saved.
+2024-05-28 17:22:16, 1716909736, Photo metadata created.
+2024-05-28 17:22:31, 1716909751, Motion detected.
+2024-05-28 17:22:31, 1716909751, Last photo saved.
+2024-05-28 17:22:32, 1716909752, Photo metadata created.
+2024-05-28 17:22:41, 1716909761, 5 minutes elapsed camera triggered.
+2024-05-28 17:22:41, 1716909761, Photo taken.
+2024-05-28 17:22:42, 1716909762, Photo metadata created.
+2024-05-28 17:22:47, 1716909767, Motion detected.
+2024-05-28 17:22:47, 1716909767, Last photo saved.
+2024-05-28 17:22:47, 1716909767, Photo metadata created.
+2024-05-28 17:23:17, 1716909797, Motion detected.
+2024-05-28 17:23:17, 1716909797, Last photo saved.
+2024-05-28 17:23:18, 1716909798, Photo metadata created.
+2024-05-28 17:23:32, 1716909812, Motion detected.
+2024-05-28 17:23:32, 1716909812, Last photo saved.
+2024-05-28 17:23:33, 1716909813, Photo metadata created.
+2024-05-28 17:23:48, 1716909828, Motion detected.
+2024-05-28 17:23:48, 1716909828, Last photo saved.
+2024-05-28 17:23:48, 1716909828, Photo metadata created.
+2024-05-28 17:24:03, 1716909843, Motion detected.
+2024-05-28 17:24:03, 1716909843, Last photo saved.
+2024-05-28 17:24:04, 1716909844, Photo metadata created.
+2024-05-28 17:24:19, 1716909859, Motion detected.
+2024-05-28 17:24:19, 1716909859, Last photo saved.
+2024-05-28 17:24:20, 1716909860, Photo metadata created.
+2024-05-28 17:24:35, 1716909875, Motion detected.
+2024-05-28 17:24:35, 1716909875, Last photo saved.
+2024-05-28 17:24:35, 1716909875, Photo metadata created.
+2024-05-28 17:25:18, 1716909918, Motion detected.
+2024-05-28 17:25:18, 1716909918, Last photo saved.
+2024-05-28 17:25:19, 1716909919, Photo metadata created.
+2024-05-28 17:26:46, 1716910006, Motion detected.
+2024-05-28 17:26:46, 1716910006, Last photo saved.
+2024-05-28 17:26:46, 1716910006, Photo metadata created.
+2024-05-28 17:27:42, 1716910062, 5 minutes elapsed camera triggered.
+2024-05-28 17:27:43, 1716910063, Photo taken.
+2024-05-28 17:27:44, 1716910064, Photo metadata created.
+2024-05-28 17:28:27, 1716910107, Motion detected.
+2024-05-28 17:28:27, 1716910107, Last photo saved.
+2024-05-28 17:28:28, 1716910108, Photo metadata created.
+2024-05-28 17:28:42, 1716910122, Motion detected.
+2024-05-28 17:28:42, 1716910122, Last photo saved.
+2024-05-28 17:28:43, 1716910123, Photo metadata created.
+2024-05-28 17:28:58, 1716910138, Motion detected.
+2024-05-28 17:28:58, 1716910138, Last photo saved.
+2024-05-28 17:28:58, 1716910138, Photo metadata created.
+2024-05-28 17:29:12, 1716910152, Motion detected.
+2024-05-28 17:29:12, 1716910152, Last photo saved.
+2024-05-28 17:29:13, 1716910153, Photo metadata created.
+2024-05-28 17:29:27, 1716910167, Motion detected.
+2024-05-28 17:29:27, 1716910167, Last photo saved.
+2024-05-28 17:29:27, 1716910167, Photo metadata created.
+2024-05-28 17:29:29, 1716910169, Pressure plate activated camera triggered.
+2024-05-28 17:29:30, 1716910170, Photo taken.
+2024-05-28 17:29:31, 1716910171, Photo metadata created.
+2024-05-28 17:29:31, 1716910171, Pressure plate activated camera triggered.
+2024-05-28 17:29:31, 1716910171, Photo taken.
+2024-05-28 17:29:31, 1716910171, Photo metadata created.
+2024-05-28 17:29:31, 1716910172, Pressure plate activated camera triggered.
+2024-05-28 17:29:32, 1716910172, Photo taken.
+2024-05-28 17:29:32, 1716910172, Photo metadata created.
+2024-05-28 17:29:32, 1716910172, Pressure plate activated camera triggered.
+2024-05-28 17:29:33, 1716910173, Photo taken.
+2024-05-28 17:29:34, 1716910174, Photo metadata created.
+2024-05-28 17:29:34, 1716910174, Pressure plate activated camera triggered.
+2024-05-28 17:29:35, 1716910175, Photo taken.
+2024-05-28 17:29:36, 1716910176, Photo metadata created.
+2024-05-28 17:29:36, 1716910176, Pressure plate activated camera triggered.
+2024-05-28 17:29:38, 1716910178, Photo taken.
+2024-05-28 17:29:38, 1716910178, Photo metadata created.
+2024-05-28 17:29:38, 1716910179, Pressure plate activated camera triggered.
+2024-05-28 17:29:40, 1716910180, Photo taken.
+2024-05-28 17:29:40, 1716910180, Photo metadata created.
+2024-05-28 17:29:40, 1716910180, Pressure plate activated camera triggered.
+2024-05-28 17:29:42, 1716910182, Photo taken.
+2024-05-28 17:29:43, 1716910183, Photo metadata created.
+2024-05-28 17:29:43, 1716910183, Pressure plate activated camera triggered.
+2024-05-28 17:29:43, 1716910183, Photo taken.
+2024-05-28 17:29:43, 1716910183, Photo metadata created.
+2024-05-28 17:29:43, 1716910183, Pressure plate activated camera triggered.
+2024-05-28 17:29:43, 1716910183, Photo taken.
+2024-05-28 17:29:44, 1716910184, Photo metadata created.
+2024-05-28 17:29:44, 1716910184, Pressure plate activated camera triggered.
+2024-05-28 17:29:44, 1716910184, Photo taken.
+2024-05-28 17:29:44, 1716910184, Photo metadata created.
+2024-05-28 17:29:54, 1716910194, Motion detected.
+2024-05-28 17:29:54, 1716910194, Last photo saved.
+2024-05-28 17:29:54, 1716910194, Photo metadata created.
+2024-05-28 17:31:08, 1716910268, Motion detected.
+2024-05-28 17:31:08, 1716910268, Last photo saved.
+2024-05-28 17:31:09, 1716910269, Photo metadata created.
+2024-05-28 17:31:52, 1716910312, Motion detected.
+2024-05-28 17:31:52, 1716910312, Last photo saved.
+2024-05-28 17:31:52, 1716910312, Photo metadata created.
+2024-05-28 17:32:08, 1716910328, Motion detected.
+2024-05-28 17:32:08, 1716910328, Last photo saved.
+2024-05-28 17:32:08, 1716910328, Photo metadata created.
+2024-05-28 17:32:45, 1716910365, 5 minutes elapsed camera triggered.
+2024-05-28 17:32:45, 1716910365, Photo taken.
+2024-05-28 17:32:45, 1716910365, Photo metadata created.
+2024-05-28 17:33:48, 1716910428, Motion detected.
+2024-05-28 17:33:49, 1716910429, Last photo saved.
+2024-05-28 17:33:49, 1716910429, Photo metadata created.
+2024-05-28 17:34:04, 1716910444, Motion detected.
+2024-05-28 17:34:04, 1716910444, Last photo saved.
+2024-05-28 17:34:04, 1716910444, Photo metadata created.
+2024-05-28 17:34:47, 1716910487, Motion detected.
+2024-05-28 17:34:47, 1716910487, Last photo saved.
+2024-05-28 17:34:47, 1716910487, Photo metadata created.
+2024-05-28 17:35:02, 1716910502, Motion detected.
+2024-05-28 17:35:02, 1716910502, Last photo saved.
+2024-05-28 17:35:03, 1716910503, Photo metadata created.
+2024-05-28 17:35:31, 1716910531, Motion detected.
+2024-05-28 17:35:31, 1716910531, Last photo saved.
+2024-05-28 17:35:32, 1716910532, Photo metadata created.
+2024-05-28 17:36:00, 1716910560, Motion detected.
+2024-05-28 17:36:00, 1716910560, Last photo saved.
+2024-05-28 17:36:01, 1716910561, Photo metadata created.
+2024-05-28 17:36:15, 1716910575, Motion detected.
+2024-05-28 17:36:15, 1716910575, Last photo saved.
+2024-05-28 17:36:15, 1716910575, Photo metadata created.
+2024-05-28 17:36:30, 1716910590, Motion detected.
+2024-05-28 17:36:30, 1716910590, Last photo saved.
+2024-05-28 17:36:30, 1716910590, Photo metadata created.
+2024-05-28 17:37:45, 1716910665, 5 minutes elapsed camera triggered.
+2024-05-28 17:37:46, 1716910666, Photo taken.
+2024-05-28 17:37:47, 1716910667, Photo metadata created.
+2024-05-28 17:38:53, 1716910733, Motion detected.
+2024-05-28 17:38:53, 1716910733, Last photo saved.
+2024-05-28 17:38:54, 1716910734, Photo metadata created.
+2024-05-28 17:39:08, 1716910748, Motion detected.
+2024-05-28 17:39:08, 1716910748, Last photo saved.
+2024-05-28 17:39:09, 1716910749, Photo metadata created.
+2024-05-28 17:39:38, 1716910778, Motion detected.
+2024-05-28 17:39:38, 1716910778, Last photo saved.
+2024-05-28 17:39:38, 1716910778, Photo metadata created.
+2024-05-28 17:40:07, 1716910807, Motion detected.
+2024-05-28 17:40:07, 1716910807, Last photo saved.
+2024-05-28 17:40:07, 1716910807, Photo metadata created.
+2024-05-28 17:40:36, 1716910836, Motion detected.
+2024-05-28 17:40:36, 1716910836, Last photo saved.
+2024-05-28 17:40:36, 1716910836, Photo metadata created.
+2024-05-28 17:41:19, 1716910879, Motion detected.
+2024-05-28 17:41:19, 1716910879, Last photo saved.
+2024-05-28 17:41:20, 1716910880, Photo metadata created.
+2024-05-28 17:42:47, 1716910967, Motion detected.
+2024-05-28 17:42:47, 1716910967, 5 minutes elapsed camera triggered.
+2024-05-28 17:42:47, 1716910967, Last photo saved.
+2024-05-28 17:42:47, 1716910967, Photo metadata created.
+2024-05-28 17:42:48, 1716910968, Photo taken.
+2024-05-28 17:42:48, 1716910968, Photo metadata created.
+2024-05-28 17:43:31, 1716911011, Motion detected.
+2024-05-28 17:43:31, 1716911011, Last photo saved.
+2024-05-28 17:43:31, 1716911011, Photo metadata created.
+2024-05-28 17:44:29, 1716911069, Motion detected.
+2024-05-28 17:44:29, 1716911069, Last photo saved.
+2024-05-28 17:44:29, 1716911069, Photo metadata created.
+2024-05-28 17:45:56, 1716911156, Motion detected.
+2024-05-28 17:45:56, 1716911156, Last photo saved.
+2024-05-28 17:45:57, 1716911157, Photo metadata created.
+2024-05-28 17:46:12, 1716911172, Motion detected.
+2024-05-28 17:46:12, 1716911172, Last photo saved.
+2024-05-28 17:46:12, 1716911172, Photo metadata created.
+2024-05-28 17:46:26, 1716911186, Motion detected.
+2024-05-28 17:46:26, 1716911186, Last photo saved.
+2024-05-28 17:46:26, 1716911186, Photo metadata created.
+2024-05-28 17:47:48, 1716911268, 5 minutes elapsed camera triggered.
+2024-05-28 17:47:49, 1716911269, Photo taken.
+2024-05-28 17:47:49, 1716911269, Photo metadata created.
+2024-05-28 17:48:06, 1716911286, Motion detected.
+2024-05-28 17:48:06, 1716911286, Last photo saved.
+2024-05-28 17:48:07, 1716911287, Photo metadata created.
+2024-05-28 17:17:25, 1716909445, System initialized.
+2024-05-28 17:22:25, 1716909745, 5 minutes elapsed camera triggered.
+2024-05-28 17:22:25, 1716909745, Photo taken.
+2024-05-28 17:22:25, 1716909745, Photo metadata created.
+2024-05-28 17:17:25, 1716909445, System initialized.
+2024-05-28 19:19:46, 1716916786, 5 minutes elapsed camera triggered.
+2024-05-28 19:19:47, 1716916787, Photo taken.
+2024-05-28 19:19:47, 1716916787, Photo metadata created.
+2024-05-28 19:24:47, 1716917087, 5 minutes elapsed camera triggered.
+2024-05-28 19:24:47, 1716917087, Photo taken.
+2024-05-28 19:24:48, 1716917088, Photo metadata created.
+2024-05-28 19:29:48, 1716917388, 5 minutes elapsed camera triggered.
+2024-05-28 19:29:48, 1716917388, Photo taken.
+2024-05-28 19:29:48, 1716917388, Photo metadata created.
+2024-05-28 19:34:48, 1716917688, 5 minutes elapsed camera triggered.
+2024-05-28 19:34:48, 1716917688, Photo taken.
+2024-05-28 19:34:49, 1716917689, Photo metadata created.
+2024-05-28 19:39:49, 1716917989, 5 minutes elapsed camera triggered.
+2024-05-28 19:39:49, 1716917989, Photo taken.
+2024-05-28 19:39:49, 1716917989, Photo metadata created.
+2024-05-28 19:44:49, 1716918289, 5 minutes elapsed camera triggered.
+2024-05-28 19:44:50, 1716918290, Photo taken.
+2024-05-28 19:44:50, 1716918290, Photo metadata created.
+2024-05-28 19:49:50, 1716918590, 5 minutes elapsed camera triggered.
+2024-05-28 19:49:50, 1716918590, Photo taken.
+2024-05-28 19:49:50, 1716918590, Photo metadata created.
+2024-05-28 19:54:50, 1716918890, 5 minutes elapsed camera triggered.
+2024-05-28 19:54:51, 1716918891, Photo taken.
+2024-05-28 19:54:51, 1716918891, Photo metadata created.
+2024-05-28 19:59:51, 1716919191, 5 minutes elapsed camera triggered.
+2024-05-28 19:59:51, 1716919191, Photo taken.
+2024-05-28 19:59:51, 1716919191, Photo metadata created.
+2024-05-28 20:04:51, 1716919491, 5 minutes elapsed camera triggered.
+2024-05-28 20:04:52, 1716919492, Photo taken.
+2024-05-28 20:04:52, 1716919492, Photo metadata created.
+2024-05-28 20:09:52, 1716919792, 5 minutes elapsed camera triggered.
+2024-05-28 20:09:52, 1716919792, Photo taken.
+2024-05-28 20:09:53, 1716919793, Photo metadata created.
+2024-05-28 20:14:53, 1716920093, 5 minutes elapsed camera triggered.
+2024-05-28 20:14:53, 1716920093, Photo taken.
+2024-05-28 20:14:53, 1716920093, Photo metadata created.
+2024-05-28 20:19:53, 1716920393, 5 minutes elapsed camera triggered.
+2024-05-28 20:19:53, 1716920393, Photo taken.
+2024-05-28 20:19:54, 1716920394, Photo metadata created.
+2024-05-28 20:24:54, 1716920694, 5 minutes elapsed camera triggered.
+2024-05-28 20:24:54, 1716920694, Photo taken.
+2024-05-28 20:24:54, 1716920694, Photo metadata created.
+2024-05-28 20:29:54, 1716920994, 5 minutes elapsed camera triggered.
+2024-05-28 20:29:54, 1716920994, Photo taken.
+2024-05-28 20:29:55, 1716920995, Photo metadata created.
+2024-05-28 20:34:55, 1716921295, 5 minutes elapsed camera triggered.
+2024-05-28 20:34:55, 1716921295, Photo taken.
+2024-05-28 20:34:55, 1716921295, Photo metadata created.
+2024-05-28 20:39:55, 1716921595, 5 minutes elapsed camera triggered.
+2024-05-28 20:39:55, 1716921595, Photo taken.
+2024-05-28 20:39:56, 1716921596, Photo metadata created.
+2024-05-28 20:44:56, 1716921896, 5 minutes elapsed camera triggered.
+2024-05-28 20:44:56, 1716921896, Photo taken.
+2024-05-28 20:44:57, 1716921897, Photo metadata created.
+2024-05-28 20:49:57, 1716922197, 5 minutes elapsed camera triggered.
+2024-05-28 20:49:57, 1716922197, Photo taken.
+2024-05-28 20:49:57, 1716922197, Photo metadata created.
+2024-05-28 20:54:57, 1716922497, 5 minutes elapsed camera triggered.
+2024-05-28 20:54:58, 1716922498, Photo taken.
+2024-05-28 20:54:58, 1716922498, Photo metadata created.
+2024-05-28 20:59:58, 1716922798, 5 minutes elapsed camera triggered.
+2024-05-28 20:59:58, 1716922798, Photo taken.
+2024-05-28 20:59:59, 1716922799, Photo metadata created.
+2024-05-28 21:04:59, 1716923099, 5 minutes elapsed camera triggered.
+2024-05-28 21:04:59, 1716923099, Photo taken.
+2024-05-28 21:04:59, 1716923099, Photo metadata created.
+2024-05-28 21:09:59, 1716923399, 5 minutes elapsed camera triggered.
+2024-05-28 21:09:59, 1716923399, Photo taken.
+2024-05-28 21:10:00, 1716923400, Photo metadata created.
+2024-05-28 21:15:00, 1716923700, 5 minutes elapsed camera triggered.
+2024-05-28 21:15:00, 1716923700, Photo taken.
+2024-05-28 21:15:00, 1716923700, Photo metadata created.
+2024-05-28 21:20:00, 1716924000, 5 minutes elapsed camera triggered.
+2024-05-28 21:20:00, 1716924000, Photo taken.
+2024-05-28 21:20:01, 1716924001, Photo metadata created.
+2024-05-28 21:25:01, 1716924301, 5 minutes elapsed camera triggered.
+2024-05-28 21:25:01, 1716924301, Photo taken.
+2024-05-28 21:25:01, 1716924301, Photo metadata created.
+2024-05-28 21:30:01, 1716924601, 5 minutes elapsed camera triggered.
+2024-05-28 21:30:01, 1716924601, Photo taken.
+2024-05-28 21:30:02, 1716924602, Photo metadata created.
+2024-05-28 21:35:02, 1716924902, 5 minutes elapsed camera triggered.
+2024-05-28 21:35:02, 1716924902, Photo taken.
+2024-05-28 21:35:03, 1716924903, Photo metadata created.
+2024-05-28 21:40:03, 1716925203, 5 minutes elapsed camera triggered.
+2024-05-28 21:40:03, 1716925203, Photo taken.
+2024-05-28 21:40:03, 1716925203, Photo metadata created.
+2024-05-28 21:45:03, 1716925503, 5 minutes elapsed camera triggered.
+2024-05-28 21:45:04, 1716925504, Photo taken.
+2024-05-28 21:45:04, 1716925504, Photo metadata created.
+2024-05-28 21:50:04, 1716925804, 5 minutes elapsed camera triggered.
+2024-05-28 21:50:04, 1716925804, Photo taken.
+2024-05-28 21:50:05, 1716925805, Photo metadata created.
+2024-05-28 21:55:05, 1716926105, 5 minutes elapsed camera triggered.
+2024-05-28 21:55:05, 1716926105, Photo taken.
+2024-05-28 21:55:05, 1716926105, Photo metadata created.
+2024-05-28 22:00:05, 1716926405, 5 minutes elapsed camera triggered.
+2024-05-28 22:00:05, 1716926405, Photo taken.
+2024-05-28 22:00:06, 1716926406, Photo metadata created.
+2024-05-28 22:05:06, 1716926706, 5 minutes elapsed camera triggered.
+2024-05-28 22:05:06, 1716926706, Photo taken.
+2024-05-28 22:05:06, 1716926706, Photo metadata created.
+2024-05-28 22:10:06, 1716927006, 5 minutes elapsed camera triggered.
+2024-05-28 22:10:06, 1716927006, Photo taken.
+2024-05-28 22:10:07, 1716927007, Photo metadata created.
+2024-05-28 22:15:07, 1716927307, 5 minutes elapsed camera triggered.
+2024-05-28 22:15:07, 1716927307, Photo taken.
+2024-05-28 22:15:07, 1716927307, Photo metadata created.
+2024-05-28 22:20:07, 1716927607, 5 minutes elapsed camera triggered.
+2024-05-28 22:20:08, 1716927608, Photo taken.
+2024-05-28 22:20:08, 1716927608, Photo metadata created.
+2024-05-28 22:25:08, 1716927908, 5 minutes elapsed camera triggered.
+2024-05-28 22:25:08, 1716927908, Photo taken.
+2024-05-28 22:25:09, 1716927909, Photo metadata created.
+2024-05-28 22:30:09, 1716928209, 5 minutes elapsed camera triggered.
+2024-05-28 22:30:09, 1716928209, Photo taken.
+2024-05-28 22:30:09, 1716928209, Photo metadata created.
+2024-05-28 22:35:09, 1716928509, 5 minutes elapsed camera triggered.
+2024-05-28 22:35:10, 1716928510, Photo taken.
+2024-05-28 22:35:10, 1716928510, Photo metadata created.

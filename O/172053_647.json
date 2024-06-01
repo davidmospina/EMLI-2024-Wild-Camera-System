@@ -1,0 +1,13 @@
+{
+  "File Name": "172053_647.jpg",
+  "Create Date": "2024-05-28 17:21:00.774+02:00",
+  "Create Seconds Epoch": 1716909660.779,
+  "Trigger": "Motion",
+  "Subject Distance": "0.6811989101 m",
+  "Exposure Time": "1/17",
+  "ISO": "232",
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a close-up of what appears to be the edge of a wall with a black object that could possibly be a small speaker or some kind of decorative piece. In the background, there is a large screen displaying an image that seems to be rotating or panning across it, but the content of this screen is not visible due to the angle and proximity of the camera to the screen edge. The lighting in the image suggests an indoor setting with artificial light illuminating the scene. "
+  }
+}

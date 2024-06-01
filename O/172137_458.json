@@ -1,0 +1,13 @@
+{
+  "File Name": "172137_458.jpg",
+  "Create Date": "2024-05-28 17:21:45.076+02:00",
+  "Create Seconds Epoch": 1716909705.081,
+  "Trigger": "Motion",
+  "Subject Distance": "0.7278020378 m",
+  "Exposure Time": "1/17",
+  "ISO": "238",
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a computer monitor with its screen displaying a pattern of diagonal lines. The monitor is placed on a table, and it appears to be powered off or in a low power state since there are no visible contents or icons on the screen. To the right of the monitor, there's an object that looks like a roll of adhesive tape, partially rolled up and resting on the edge of the table. The background suggests this might be taken in an office or workspace setting, with what seems to be a desk or table that has a patterned surface. There is also a circular object in front of the monitor, which could be a coaster or a small tray, but it's not entirely clear from the image. "
+  }
+}

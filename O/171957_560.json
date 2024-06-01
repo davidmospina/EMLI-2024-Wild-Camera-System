@@ -1,0 +1,13 @@
+{
+  "File Name": "171957_560.jpg",
+  "Create Date": "2024-05-28 17:19:59.337+02:00",
+  "Create Seconds Epoch": 1716909599.341,
+  "Trigger": "External",
+  "Subject Distance": "0.8285004143 m",
+  "Exposure Time": "1/17",
+  "ISO": "226",
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows a close-up of what appears to be the back of a computer monitor. The screen is turned off, and we can see that it's an LCD or LED type due to the absence of a visible dot matrix structure. The monitor has a sleek design with a thin bezel surrounding the screen. There are no visible cables, stands, or other accessories in this view. The background suggests that the image is taken indoors, possibly from someone standing behind or to the side of the computer monitor. "
+  }
+}

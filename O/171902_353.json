@@ -1,0 +1,13 @@
+{
+  "File Name": "171902_353.jpg",
+  "Create Date": "2024-05-28 17:19:09.395+02:00",
+  "Create Seconds Epoch": 1716909549.4,
+  "Trigger": "Motion",
+  "Subject Distance": "0.6097560976 m",
+  "Exposure Time": "1/18",
+  "ISO": "200",
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior perspective, possibly from a surveillance camera or a smartphone screen with a photo app that distorts the edges. In the foreground, there's a black object that resembles a table with a circular top and a small plate on it. Behind this, the floor is tiled, and the walls are white with some darker stripe pattern. There is a partial view of what appears to be a glass door or window, which is reflecting an image back into the room due to the camera's angle. The reflection shows another room with more tables and chairs, suggesting this could be a public space such as a cafe or waiting area. The overall quality of the photo indicates it might have been taken with a low-quality camera or in a setting with low lighting conditions. "
+  }
+}

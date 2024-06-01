@@ -1,0 +1,13 @@
+{
+  "File Name": "171804_865.jpg",
+  "Create Date": "2024-05-28 17:18:12.161+02:00",
+  "Create Seconds Epoch": 1716909492.166,
+  "Trigger": "Motion",
+  "Subject Distance": "0.6045949214 m",
+  "Exposure Time": "1/18",
+  "ISO": "200",
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows two views of a room, likely a laboratory or office space. In the upper view, there is a person seated at a desk with a computer monitor, which is displaying what appears to be a spreadsheet or database interface. To the left of the monitor, there's a circular white object that could be a stool or chair cushion. The room has a modern and minimalist design, with white walls, a white floor, and a metal grid ceiling.\n\nThe lower view shows the same space from below, revealing a patterned carpet on the floor. The carpet is geometrically designed with various shades of gray and black. This perspective also provides a better view of the person's legs and feet, indicating they are sitting comfortably in front of the monitor. "
+  }
+}
